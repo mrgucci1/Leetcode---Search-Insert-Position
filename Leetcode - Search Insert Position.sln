@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30711.63
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Leetcode - Search Insert Position", "Leetcode - Search Insert Position\Leetcode - Search Insert Position.csproj", "{209A61A1-A6BB-4B3A-AB8E-2417117A0FEF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{209A61A1-A6BB-4B3A-AB8E-2417117A0FEF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{209A61A1-A6BB-4B3A-AB8E-2417117A0FEF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{209A61A1-A6BB-4B3A-AB8E-2417117A0FEF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{209A61A1-A6BB-4B3A-AB8E-2417117A0FEF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {04353E34-134F-43FA-B281-591827D5DCC7}
+	EndGlobalSection
+EndGlobal
